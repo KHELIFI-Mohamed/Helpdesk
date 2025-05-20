@@ -27,9 +27,9 @@ Le logiciel intégre les fonctionnalités suivantes :
 
 - Une page d’accueil claire et intuitive.[page d'accueil](https://github.com/KHELIFI-Mohamed/Helpdesk/blob/main/index.php)
 
-- Une page de demande d’assistance permettant aux utilisateurs de soumettre un ticket.
+- Une page de demande d’assistance permettant aux utilisateurs de soumettre un ticket.[page d'assistance](https://github.com/KHELIFI-Mohamed/Helpdesk/blob/main/assistance.php)
 
-- Un panneau de gestion des tickets, listant l’ensemble des demandes avec leur statut visuellement identifiable par couleur (ouvert, en cours, fermé).
+- Un panneau de gestion des tickets, listant l’ensemble des demandes avec leur statut visuellement identifiable par couleur (ouvert, en cours, fermé).[ticket](https://github.com/KHELIFI-Mohamed/Helpdesk/blob/main/techn.php)
 
 - Une page de consultation de ticket, permettant d’accéder aux détails d’un ticket et de le modifier.
 
