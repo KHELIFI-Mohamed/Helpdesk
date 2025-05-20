@@ -31,7 +31,7 @@ Le logiciel intégre les fonctionnalités suivantes :
 
 - Un panneau de gestion des tickets, listant l’ensemble des demandes avec leur statut visuellement identifiable par couleur (ouvert, en cours, fermé).[ticket](https://github.com/KHELIFI-Mohamed/Helpdesk/blob/main/techn.php)
 
-- Une page de consultation de ticket, permettant d’accéder aux détails d’un ticket et de le modifier.
+- Une page de consultation de ticket, permettant d’accéder aux détails d’un ticket et de le modifier.[ticket](https://github.com/KHELIFI-Mohamed/Helpdesk/blob/main/techn.php)
 
 - Une mise en page soignée utilisant CSS pour un rendu propre et professionnel.
 
