@@ -25,7 +25,7 @@ L’accès à l’interface de gestion des tickets est sécurisé : les technici
 
 Le logiciel intégre les fonctionnalités suivantes :
 
-- Une page d’accueil claire et intuitive.
+- Une page d’accueil claire et intuitive.[page d'accueil]()
 
 - Une page de demande d’assistance permettant aux utilisateurs de soumettre un ticket.
 
