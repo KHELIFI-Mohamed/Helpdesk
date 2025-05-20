@@ -42,6 +42,7 @@ Le logiciel intégre les fonctionnalités suivantes :
 - Un système de log 
 
 
+PS:Si vous voulez avoir des explications plus visuel et explicite vous pour regarder la vidéo suivante :[Helpdesk.zip](https://github.com/user-attachments/files/20327768/Helpdesk.zip)
 
 
 
